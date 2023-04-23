@@ -1,0 +1,6 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineDeployment.schema.json
+name: iris-deployment-green
+endpoint_name: iris-endpoint-2424512-bluegreen
+model: azureml:iris-model-green@latest
+instance_type: Standard_DS2_v2
+instance_count: 1

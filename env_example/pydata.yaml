@@ -1,0 +1,6 @@
+name: opencv_env
+dependencies:
+    - python=3.8.3
+    - tensorflow=2.6.0
+    - pip=20.1.1
+
